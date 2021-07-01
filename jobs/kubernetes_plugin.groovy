@@ -1,4 +1,4 @@
-multibranchPipelineJob('test-pipeline') {
+multibranchPipelineJob('kubernetes-plugin') {
   branchSources {
     branchSource {
       source {
